@@ -3,5 +3,10 @@ pandas
 numpy
 seaborn
 
+# API-related packages
+fastapi
+uvicorn
+
 # Testing packages
+requests
 pytest
